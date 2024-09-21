@@ -38,3 +38,34 @@ header p {
     margin: 0;
     font-size: 16px;
 }
+
+/* ID Styles to match instructions */
+#box1 {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#box2 {
+    background-color: lightgreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#box3 {
+    background-color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#box4 {
+    background-color: lightgoldenrodyellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#box5 {
+    background-color: lightsalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#box6 {
+    background-color: lightpink;
+    font-family: "Comic Sans MS", Arial, Helvetica, sans-serif;
+}
