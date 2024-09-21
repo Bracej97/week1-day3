@@ -17,6 +17,7 @@ footer {
 
 /* Issue: This text is currently hidden */
 .hidden-text {
+    display: block;
     background-color: lightblue;
     /* Fix this */
 }
@@ -25,7 +26,10 @@ footer {
 .item {
     display: inline-block;
     /* Change this to allow them to be side by side */
-    padding: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-color: lightgreen;
     margin: 50px;
 }
